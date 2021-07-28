@@ -3,7 +3,7 @@ body {
 }
 .container {
     margin: auto;
-    border: solid 2px black;
+    /* border: solid 2px black; */
     max-width: 70vw;
     max-height: 50vh;
 }
@@ -16,12 +16,16 @@ img {
 }
 input {
     margin: auto;
-    margin-bottom: 2.5%;
+    margin-bottom: 5%;
     display: block;
     border-radius: 15px;
 }
 button {
     margin: auto;
+    max-width: 35vw;
+    min-height: 4.5vh;
     display: inline;
     text-transform: capitalize;
+    border: none;
+    border-radius: 5px;
 }
