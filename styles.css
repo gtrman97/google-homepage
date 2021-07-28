@@ -18,6 +18,7 @@ input {
     margin: auto;
     margin-bottom: 5%;
     min-height: 3vh;
+    min-width: 70vw;
     display: block;
     border-radius: 15px;
 }
