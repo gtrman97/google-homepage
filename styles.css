@@ -1,0 +1,12 @@
+body {
+    margin: auto;
+}
+.container {
+    max-width: 50vw;
+    max-height: 50vh;
+}
+img {
+    max-width: 5px;
+    max-height: 5px;
+    /* height: auto; */
+}
