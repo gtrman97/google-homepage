@@ -23,7 +23,7 @@ input {
 button {
     margin: auto;
     max-width: 35vw;
-    min-height: 4.5vh;
+    min-height: 4vh;
     display: inline;
     text-transform: capitalize;
     border: none;
