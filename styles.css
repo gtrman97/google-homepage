@@ -10,13 +10,14 @@ body {
 img {
     margin: auto;
     display: block;
-    max-width: 100px;
-    max-height: 100px;
+    max-width: 35vw;
+    max-height: 25vh;
     /* height: auto; */
 }
 input {
     margin: auto;
     margin-bottom: 5%;
+    min-height: 3vh;
     display: block;
     border-radius: 15px;
 }
