@@ -20,11 +20,17 @@ input {
     display: block;
     border-radius: 15px;
 }
+#wrapper {
+    display: flex;
+    justify-content: center;
+
+}
 button {
-    margin: auto;
+    /* margin: auto; */
     max-width: 35vw;
     min-height: 4vh;
-    display: inline;
+    /* display: inline; */
+    margin: 1%;
     text-transform: capitalize;
     border: none;
     border-radius: 5px;
